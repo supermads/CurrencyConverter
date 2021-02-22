@@ -61,5 +61,9 @@ files:
         TestStage2("cconverter.cconverter").run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/projects/157/stages/818/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/157/stages/818/implement">JetBrains
+    Academy</a>
+  time: Mon, 22 Feb 2021 21:33:49 UTC
 record: -1
